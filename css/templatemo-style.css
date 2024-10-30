@@ -8,6 +8,7 @@ https://templatemo.com/tm-560-astro-motion
 
 html, body, .page-container {
     height: 100%;
+text-align: justify;
 }
 
 body {
@@ -30,7 +31,6 @@ a:hover {
 
 p {
     line-height: 1.7;
-	text-align: justify;
 }
 
 h2 {
